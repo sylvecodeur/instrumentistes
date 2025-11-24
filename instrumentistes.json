@@ -1,23 +1,23 @@
 [
   {
     "id": 1,
-    "nom": "Doe",
-    "prenom": "John",
-    "imageUrl": "https://raw.githubusercontent.com/sylvecodeur/ccc-hymnes-officiel/main/instrumentistes/images/thumb-1.jpg",
+    "nom": "SAGBO",
+    "prenom": "Idos",
+    "imageUrl": "https://raw.githubusercontent.com/sylvecodeur/instrumentistes/main/images/thumb-3.jpg",
     "niveau": "Avancé",
     "paroisse": "Paroisse Centrale",
     "telephone": "+22967922379",
     "email": "john.doe@example.com",
     "description": "Pianiste expérimenté avec une passion pour la musique sacrée. Spécialisé dans l'accompagnement des cantiques.",
-    "instruments": ["Piano", "Orgue"],
+    "instruments": ["Guitare Bass", "Orgue", "Trompette", "Chant"],
     "anneeExperience": 10,
-    "specialite": "Piano"
+    "specialite": "Guitare Bass"
   },
   {
     "id": 2,
     "nom": "Smith",
     "prenom": "Jane",
-    "imageUrl": "https://raw.githubusercontent.com/sylvecodeur/ccc-hymnes-officiel/main/instrumentistes/images/thumb-2.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/sylvecodeur/instrumentistes/main/images/thumb-1.jpg",
     "niveau": "Expert",
     "paroisse": "Paroisse de Cotonou",
     "telephone": "+22967922380",
@@ -29,8 +29,8 @@
   },
   {
     "id": 3,
-    "nom": "Johnson",
-    "prenom": "Michael",
+    "nom": "SAGBO",
+    "prenom": "IdosKy",
     "niveau": "Intermédiaire",
     "paroisse": "Paroisse de Porto-Novo",
     "telephone": "+22967922381",
@@ -38,6 +38,20 @@
     "instruments": ["Batterie", "Percussions"],
     "anneeExperience": 5,
     "specialite": "Batterie"
+  },
+  {
+    "id": 2,
+    "nom": "HONFO",
+    "prenom": "sylvestre",
+    "imageUrl": "https://raw.githubusercontent.com/sylvecodeur/instrumentistes/main/images/thumb-5.jpg",
+    "niveau": "Expert",
+    "paroisse": "Paroisse de Cotonou",
+    "telephone": "+22967922380",
+    "email": "jane.smith@example.com",
+    "description": "Guitariste professionnelle et chef de chœur. Formée en musique classique et contemporaine.",
+    "instruments": ["Guitare", "Chant"],
+    "anneeExperience": 15,
+    "specialite": "Guitare"
   }
 ]
 
